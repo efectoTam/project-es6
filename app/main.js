@@ -13,8 +13,3 @@ const name = "Lemontech";
 const world = new World("Hola", name);
 
 world.print();
-
-
-const selector = new Selector('.class');
-
-const fancySelector = new FancySelector('.class');
